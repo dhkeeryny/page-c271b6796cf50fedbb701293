@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e3bf12c18d5cc1c687673fec",
+  "owner": "dhkeeryny",
+  "repo": "page-c271b6796cf50fedbb701293",
+  "title": "微创云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c271b6796cf50fedbb701293",
+      "a": "微创云",
+      "b": "机场官网线路发布页",
+      "entity": "微创云",
+      "brand": "微创云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "addacafc2a8e26fb10a7f6dce2d5f430d4c501387159149b8e2fbd35110db24b",
+      "content": {
+        "primary_entity": "微创云",
+        "keyword1": "微创云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，电脑、手机、路由器各有适用配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择匹配设备与流量的套餐，查看配置文档完成订阅。",
+          "AI_CLOSING_TITLE": "开始使用微创云",
+          "AI_DESCRIPTION": "，从设备数量与月流量出发对比基础版、旗舰版和团队版，再按客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常使用，3 台设备、100GB 月流量；若需要流媒体解锁或游戏加速，旗舰版更合适。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。可按家中手机、电脑、平板数量挑选。",
+          "AI_FAQ_ANSWER_3": "月付灵活，年付更省。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用可选年付。",
+          "AI_FAQ_ANSWER_4": "在客户端文档中找到对应设备的导入说明，复制订阅链接后粘贴到客户端即可完成配置。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单，适合对延迟和稳定性要求较高的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合游戏加速？",
+          "AI_FAQ_TITLE": "常见问答",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度挑选合适的微创云套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "100GB 适合单人，300GB 够小团队，1000GB 面向多设备重度使用。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档，覆盖个人到团队设备规模。",
+          "AI_FEATURE_TITLE_2": "按设备数选",
+          "AI_FEATURE_TEXT_3": "普通节点池、IPLC 专线、VIP 高带宽节点，按场景区分。",
+          "AI_FEATURE_TITLE_3": "按线路选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "微创云提供基础版、旗舰版和团队版三档套餐，覆盖个人到团队的流量与设备需求。根据上网场景选择对应套餐，再按设备类型导入订阅。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐灵活对比",
+          "AI_HIGHLIGHT_2": "年付价格更划算",
+          "AI_HIGHLIGHT_3": "多平台客户端配置",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、设备数量和是否需要流媒体或游戏加速，从基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端支持情况，查看订阅周期和同时在线设备数是否符合预期。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_3": "按所用客户端的配置文档导入订阅，完成后即可在设备上使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "微创云套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "songxirc.cn",
+    "host": "songxirc.cn"
+  },
+  "file_hashes": {
+    "index.html": "e1609dbca9dedbaa65e121820af00c06c27343ba54dbbc1f401e74481df55ee4",
+    "sitemap.xml": "015554725c4bbe21dcbafd85e753721524cd0566aa65e7e45d7b9f9005857db1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6203a1ef73474011f17fa854968341cb6efccdd22203e72fc33759625d6b781f",
+    "robots.txt": "4b9f65d7947cb4255dc2c0b4dda1234ead5752f06a0c9522cb5b947621414daf",
+    "9875a8fcb1d265e5759db9c73bdfbc19.txt": "baff373bffe02e565ad4f6a9fb7be9d8e0a420fb4f2806a2f5c354599b671af4"
+  },
+  "revision": "84da449d8c26708ccf72419628512d84a77dfaef0fa7d12c79402810a8cce3cf"
+}
